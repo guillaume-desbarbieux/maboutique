@@ -1,7 +1,20 @@
 #1 PHP Syntax
+
+    - le fichier PHP contient de l'HTML et un script PHP 
+        <!DOCTYPE html>
+        <html>
+        <body>
+
+        <h1>My first PHP page</h1>
+
+        <?php echo "Hello World!"; ?>
+
+        </body>
+        </html>
+
     - PHP script commence par       <?php      et se termine par        ?>
     - Les commandes PHP se terminent par        ;
-    - le fichier PHP contient de l'HTML et un script PHP
+    -
     - les fontctions, classes, mot-clés ne sont pas sensibles à la casse
     - ! Les variables sont sensibles à la casse !
     - Pour commenter :      //  commentaire sur une ligne
